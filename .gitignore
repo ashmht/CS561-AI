@@ -1,2 +1,5 @@
 # For windows
 Thumbs.db
+
+#MAC
+.DS_Store
