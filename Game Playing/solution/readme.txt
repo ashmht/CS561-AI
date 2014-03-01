@@ -1,3 +1,5 @@
+The program has been written in Java.
+
 The program assumes that Alice always takes the first move.
 
 The input needs to be in the below specific format:
